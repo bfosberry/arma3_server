@@ -1,4 +1,4 @@
-arma3_server
-============
+l4d2_server
+===========
 
-Docker container running an arma3 server compatible with the gamekick project
+A standard l4d2 docker server compatible with the gamekick project
